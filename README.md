@@ -50,4 +50,11 @@ new_cr0 = orginal_cr0 | 0x00010000
 ### 5. **Module Unloading**:
 - Unloading module rollbacks original `execve` syscall.
 
+![sycall](syscall.png)
+
+
+
+
+.
+
 
